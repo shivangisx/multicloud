@@ -4,7 +4,7 @@ welcome to shivi cloud
 <pre>
 <?php
 
-print ifconfig;
+print `ifconfig`;
 
 ?>
 </pre>
